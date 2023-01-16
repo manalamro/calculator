@@ -1,0 +1,11 @@
+in this project we have three components:
+
+1. main component App.
+2. Button component.
+3.input component.
+
+
+
+at the main component we define two variables :
+text to render the number that i have clicked.
+result to store and render the result of the operation.
