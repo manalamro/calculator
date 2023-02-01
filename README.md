@@ -1,3 +1,13 @@
+# about project 
+
+this project is a calculator, which built by react.
+
+
+# project demo
+
+https://user-images.githubusercontent.com/105562468/216127775-8eec7e7f-869d-4243-95a1-d4afce1f93d9.mov
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
