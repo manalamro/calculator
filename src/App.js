@@ -13,12 +13,13 @@ const App = () => {
   // function addToText takes the butoon value and store it as the text value.
   const addToText = (val) => {
     //...text : mean take the first value of it before add the new one.
-    setText((text) => [...text, val + " "]);
+    setText((text) => [...text, val]);
   };
 
   // function calculateResult takes the text values which are the number or maybe the operation.
   const calculateResult = () => {
     const input = text.join(""); // Remove commas.
+    console.log("input: "+input);
     setResult(math.evaluate(input));
   };
 //for clear button
